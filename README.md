@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=austin-personal&show_icons=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=austin-personal&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austin-personal)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austin-personal)]
+
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjralsrla)](https://solved.ac/tjralsrla)
 
