@@ -1,6 +1,8 @@
 ## 👋 Hi there, I'm Austin(Minseok) Kim. 
 ## I’m passionate about leveraging programming to solve real-world business challenges and drive innovation.
 
+### 📖 Check out my Tech Blog
+- [![Austin's Tech Blog](https://img.shields.io/badge/-Austin's%20Tech%20Blog-000000?style=for-the-badge&logo=notion&logoColor=white)](https://techrecipe.notion.site/Austin-s-Tech-Blog-baffddb479a44593912af38d34478039)
 
 
 ### 💻 About Me
@@ -8,8 +10,6 @@
 - 👨‍💻 I'm working on **Krafton Jungle**
 - 🎯 Goals: **인류의 공통된 사소한 문제 해결하기**
 - ⚡ Fun fact: Lived in New Zealand. I was **Korean national rowing team member**!
-
-
 
 
 ### 🛠️ My Tech Stack
@@ -28,7 +28,6 @@
 
 ### 📫 How to reach me
 - [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Kmaestro043@gmail.com)
-- [Austin's Tech Blog](https://techrecipe.notion.site/Austin-s-Tech-Blog-baffddb479a44593912af38d34478039)
 
 
 
