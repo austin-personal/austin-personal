@@ -1,5 +1,5 @@
 ## 👋 Hi there, I'm Austin(Minseok) Kim. 
-#### Studying IT to achieve better business goals
+#### 🚀 **Studying IT to achieve better business goals** 🚀
 
 ### 📖 Check out my Tech Blog
 - [![Austin's Tech Blog](https://img.shields.io/badge/-Austin's%20Tech%20Blog-000000?style=for-the-badge&logo=notion&logoColor=white)](https://techrecipe.notion.site/Austin-s-Tech-Blog-baffddb479a44593912af38d34478039)
