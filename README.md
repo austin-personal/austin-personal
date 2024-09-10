@@ -1,15 +1,16 @@
 ## 👋 Hi there, I'm Austin(Minseok) Kim. 
 ## I’m passionate about leveraging programming to solve real-world business challenges and drive innovation.
 
+
+
 ### 💻 About Me
 - 🌱 I’m currently learning **advanced DevOps and backend development**
 - 👨‍💻 I'm working on **Krafton Jungle**
 - 🎯 Goals: **인류의 공통된 사소한 문제 해결하기**
-- ⚡ Fun fact: I used to live in New Zealand and was a **Korean national rowing team member**!
+- ⚡ Fun fact: Lived in New Zealand. I was **Korean national rowing team member**!
 
-### 🎮 Hobbies
-- 🍷 Wine, whiskey, craft beer enthusiast
-- 🏌️‍♂️ Golf, 🎾 Tennis, 🏀 Basketball, and 🚣‍♂️ Rowing are my go-to sports
+
+
 
 ### 🛠️ My Tech Stack
 - **Languages:** ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Yarn](https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white)
@@ -22,20 +23,12 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=austin-personal&layout=compact&theme=radical)
 
 
-### BoJ Algorithm
+### 📈 BoJ Algorithm
 ![mazandi profile](http://mazandi.herokuapp.com/api?handle=tjralsrla&theme=warm) [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjralsrla)](https://solved.ac/tjralsrla)
 
 ### 📫 How to reach me
 - [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Kmaestro043@gmail.com)
-
----
-
-⭐️ From [Your Name](https://github.com/YOUR_GITHUB_USERNAME)
-
-
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austin-personal)
+- [Austin's Tech Blog](https://techrecipe.notion.site/Austin-s-Tech-Blog-baffddb479a44593912af38d34478039)
 
 
 
