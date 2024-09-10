@@ -1,4 +1,5 @@
-## 👋 Hi there, I'm [Your Name]!
+## 👋 Hi there, I'm Austin(Minseok) Kim. 
+## I’m passionate about leveraging programming to solve real-world business challenges and drive innovation.
 
 ### 💻 About Me
 - 🌱 I’m currently learning **advanced DevOps and backend development**
@@ -17,8 +18,12 @@
 - **DevOps:** ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/-Terraform-623CE4?style=flat-square&logo=terraform&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/-GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 
 ### 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=austin-personal&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=austin-personal&layout=compact&theme=radical)
+
+
+### BoJ Algorithm
+![mazandi profile](http://mazandi.herokuapp.com/api?handle=tjralsrla&theme=warm) [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjralsrla)](https://solved.ac/tjralsrla)
 
 ### 📫 How to reach me
 - [![Gmail](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:Kmaestro043@gmail.com)
@@ -28,8 +33,7 @@
 ⭐️ From [Your Name](https://github.com/YOUR_GITHUB_USERNAME)
 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=austin-personal&show_icons=true&theme=radical) 
-![mazandi profile](http://mazandi.herokuapp.com/api?handle=tjralsrla&theme=warm) [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tjralsrla)](https://solved.ac/tjralsrla)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=austin-personal)
 
